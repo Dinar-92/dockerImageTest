@@ -16,5 +16,5 @@ jobs:
           username: ${{ github.actor }}
           password: ${{ secrets.GHCR_TOKEN }}
           registry: ghcr.io
-          repository: Dinar-92/tsrv
+          repository: dinar-92/tsrv
           tag_with_ref: true
